@@ -1,0 +1,15 @@
+{
+  "common.emptyPlaceholder": "---",
+  "common.delete": "Delete",
+  "dialog.deleteSession.copy": "Only the session information will be deleted. Delete anyway?",
+  "dialog.deleteSession.copy_other": "Deleting these sessions cannot be undone. Delete anyway?",
+  "dialog.deleteSession.delete": "Delete session",
+  "dialog.deleteSession.delete_other": "Delete sessions",
+  "dialog.deleteSession.noSession": "No session found - cannot delete the session",
+  "dialog.deleteSession.error": "Session could not be deleted. Please try again.",
+  "dialog.deleteSession.error_other": "1 or more selected sessions could not be deleted. Please try again.",
+  "dialog.deleteSession.error_all": "Selected sessions could not be deleted. Please try again.",
+  "dialog.deleteSession.success": "Session deleted.",
+  "dialog.deleteSession.success_other": "Selected sessions deleted.",
+  "sessions.actions.delete.tooltip": "Only expired or closed sessions can be deleted."
+}
