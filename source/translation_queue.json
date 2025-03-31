@@ -1,7 +1,7 @@
 {
   "common.emptyPlaceholder": "---",
   "common.delete": "Delete",
-  "dialog.deleteSession.copy": "Only the session information will be deleted. Delete anyway?",
+  "dialog.deleteSession.copy": "Only the session information will be deleted. Delete anyway sample?",
   "dialog.deleteSession.copy_other": "Deleting these case sessions cannot be undone. Delete anyway?",
   "dialog.deleteSession.delete": "Delete session",
   "dialog.deleteSession.delete_other": "Delete sessions",
